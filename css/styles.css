@@ -1,0 +1,11 @@
+.columns {
+  width: 300px;
+  float: left;
+  font-family: sans-serif;
+  color: blue;
+  padding-right: 1rem;
+}
+
+.columns img {
+  width: 300px;
+}
