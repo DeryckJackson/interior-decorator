@@ -4,6 +4,20 @@
   font-family: sans-serif;
   color: blue;
   padding-right: 1rem;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.column1 {
+  background-color: red;
+}
+
+.column2 {
+  background-color: pink;
+}
+
+.column3 {
+  background-color: rebeccapurple;
 }
 
 .columns img {
